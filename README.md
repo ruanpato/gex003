@@ -5,6 +5,7 @@ Repositório criado para armazenar meus trabalhos e materiais de estudo referent
 ## Built With
 
 * [gcc](https://gcc.gnu.org/) - GNU gcc and g++ compiler
+* [Python](https://python.org/) - Python Interpreter (Not used in when i studied in first semester of 2016)
 * [Scratch](https://scratch.mit.edu/) - Programming language
 
 ## Authors
